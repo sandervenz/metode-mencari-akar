@@ -1,4 +1,4 @@
-# Dashboard Metode Pencarian Akar  
+# Aplikasi Metode Pencarian Akar  
 *Tugas Akhir Rekayasa Komputasional*
 
 Proyek ini mengimplementasikan berbagai metode numerik untuk mencari akar fungsi sebagai tugas akhir mata kuliah **Rekayasa Komputasional** (Semester 6) di Jurusan Informatika, Fakultas Teknologi Industri, Universitas Gunadarma.
